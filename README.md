@@ -2,6 +2,11 @@
 
 Basic NestJs Docker application.
 
+```bash
+npm install
+npm run start:dev
+```
+
 ## Run using Docker
 
 ```bash
